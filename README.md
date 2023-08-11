@@ -8,9 +8,11 @@ by Megan Tran
 * [Setup](#setup)
 * [Using the Program](#Using-the-Program)
 * [Credits](#Credits)
-
+  
 ## Purpose of Program
-
+* Practice molecular modelling of particles under specific conditions.
+* Understand the application of the Maxwell- Boltzmann Distribution Equation in molecular modelling.
+  
 ## Screenshots
 
 Final Molecular Modelling Plot:
