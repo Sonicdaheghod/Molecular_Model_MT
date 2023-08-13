@@ -27,7 +27,34 @@ Languages/ Technologies used:
   
 ## Setup
 
+Install the following packages:
+
+```
+pip install matplotlib
+pip install numpy
+```
+
+Import the following packages and libraries:
+
+```
+import numpy as np
+from matplotlib import pyplot as plt
+import math
+```
+
 ## Using the Program
+
+1) A class is initialized to define properties of theoretical particles that will be modelled in this program, including their size and the temperature with the __init__ function
+
+2) Functions also initialized for the particles' position, velocity, and for plotting them.
+3) Print out each molecules' position and velocity as an array using these lines of code respectively.
+   ```
+   print(mol_dynamics.positions)#prints positions for all 55 particles
+   print(mol_dynamics.velocities)#prints velocities for all 55 particles
+  
+   ```
+4) Plot a molecular dynamics simulation. See the screeenshot under "Screenshots".
+
 
 ## Credits
 
